@@ -1,9 +1,9 @@
-## ACME S.A. Contact Management System
+## *ACME S.A. Contact Management System*
 
-### Overview
+### *Overview*
 This project is a Contact Management System developed as a course completion project for the Data Structures subject. The system is designed to manage customer contact information efficiently, providing functionalities for inserting, searching, editing, and removing essential customer information. The project is written in C and developed using Code::Blocks.
 
-### Features
+### *Features*
 - Insert New Client: Add a new client's contact information to the system.
 - View All Clients: Display a complete list of all clients in the system.
 - Search Client by Code: Find a client's information using their unique code.
@@ -17,7 +17,7 @@ This project is a Contact Management System developed as a course completion pro
 - contato.c: Implements the core functionalities of the contact management system.
 - contato.h: Declares the data structures and function prototypes used in the project.
 
-###*How to Run*
+### *How to Run*
 
 *Compile the Project:*
 - Open the project in Code::Blocks.
@@ -27,7 +27,7 @@ This project is a Contact Management System developed as a course completion pro
 *Use the Menu:*
 - Follow the on-screen menu to interact with the system.
 
-###*Code Structure*
+### *Code Structure*
 *main.c*
 - Initializes the locale settings to Portuguese.
 - Creates the contact list.
@@ -53,10 +53,10 @@ This project is a Contact Management System developed as a course completion pro
 - Lista: Pointer to the first element of the list.
 - Function prototypes for all the functionalities implemented in contato.c.
 
-###*Requirements*
+### *Requirements*
 - Code::Blocks IDE
 - C Compiler
 
-###*Conclusion*
+### *Conclusion*
 This Contact Management System provides a robust platform for managing client information. It demonstrates the use of data structures, specifically linked lists, to handle dynamic data efficiently. The project serves as a practical application of concepts learned in the Data Structures course.
 
