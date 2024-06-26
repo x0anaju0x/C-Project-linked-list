@@ -1,9 +1,9 @@
-##*ACME S.A. Contact Management System*
+##ACME S.A. Contact Management System
 
-###*Overview*
+###Overview
 This project is a Contact Management System developed as a course completion project for the Data Structures subject. The system is designed to manage customer contact information efficiently, providing functionalities for inserting, searching, editing, and removing essential customer information. The project is written in C and developed using Code::Blocks.
 
-###*Features*
+###Features
 - Insert New Client: Add a new client's contact information to the system.
 - View All Clients: Display a complete list of all clients in the system.
 - Search Client by Code: Find a client's information using their unique code.
